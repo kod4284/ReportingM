@@ -1,0 +1,26 @@
+vagrant@vagrant:/vagrant/project1$ python reportingM.py
+Welcome to the reportingM!
+
+please enter a number by following instruction below
+1. The most popular three articles of all time
+2. The most popular article authors of all time
+3. The days more than 1% of requests led to errors
+
+Please type a number (exit: 0): 1
+Candidate is jerk, alleges rival -- 338647 views
+Bears love berries, alleges bear -- 253801 views
+Bad things gone, say good people -- 170098 views
+
+
+Please type a number (exit: 0): 2
+Ursula La Multa -- 507594 views
+Rudolf von Treppenwitz -- 423457 views
+Anonymous Contributor -- 170098 views
+Markoff Chaney -- 84557 views
+
+
+Please type a number (exit: 0): 3
+Jul 17,2016 -- 2.3% errors
+
+
+Please type a number (exit: 0): 0
